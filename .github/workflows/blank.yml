@@ -1,5 +1,8 @@
 name: Masscan and ShuffleDNS Installation
 
+permissions:
+  contents: write
+  
 on:
   push:
     branches:
